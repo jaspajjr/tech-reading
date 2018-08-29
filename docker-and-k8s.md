@@ -4,14 +4,13 @@
 
 #### Transformation
 - Culture, Automation, Metrics, and Sharing alongside anecdotes
-- I define DevOps simply as “optimizing human performance and experience operating software, with software, and with humans.”
 
 
 #####  Kafka
 - [Kafka in a nutshell](https://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
 
 
-#### Contineristion
+#### Containeristion
 
 - [Why use Docker?](https://runnable.com/docker/why-use-docker)
 - [Learning to Operate Kubernetes](https://stripe.com/blog/operating-kubernetes)
@@ -19,13 +18,15 @@
 - [Google Site Reliability Books](https://landing.google.com/sre/book/index.html)
 
 
-#### K8s
+#### Kubernetes
 
 - [Choosing the right solution](https://kubernetes.io/docs/setup/pick-right-solution/)
 - [Databases on K8s](https://gravitational.com/blog/running-postgresql-on-kubernetes/)
 - [Running Cassandra on K8s](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/)
 - [Deploy a highly-available Cassandra cluster in AWS using Kubernetes](https://medium.com/merapar/deploy-a-high-available-cassandra-cluster-in-aws-using-kubernetes-bd8ba07bfcdd)
 - [Cassandra deployment on K8s](https://github.com/IBM/Scalable-Cassandra-deployment-on-Kubernetes)
+- [Distributed database on K8s](https://lenadroid.github.io/posts/stateful-sets-kubernetes-azure.html)
+- [Kafka & Spark](https://lenadroid.github.io/posts/kafka-hdinsight-and-spark-databricks.html)
 
 
 #### Digital Government
